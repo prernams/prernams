@@ -1,6 +1,6 @@
 # Hi there, I am Prerana M S <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Engineering student from PES University. I like working on Analytical Thinking, Problem Solving, App and Website development.I'm also interested in the field of AI, NLP.
+I'm a Computer Science Engineering Senior from PES University. I like working on Software Development (App and Website development.), Analytical Thinking, Problem Solving. I'm also enjoy working in the fields of Artificial Intelligence, Natural Language Processing and Internet of Things.
 
 ## 👨‍💻 Languages and Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
